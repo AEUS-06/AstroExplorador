@@ -1,5 +1,0 @@
-C:/Users/axedu/Pictures/App RA/APP/AstroExplorador3.0/.utmp/RelWithDebInfo/3ix4i1t3/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/axedu/Pictures/App RA/APP/AstroExplorador3.0/.utmp/RelWithDebInfo/3ix4i1t3/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/Users/axedu/Pictures/App RA/APP/AstroExplorador3.0/.utmp/RelWithDebInfo/3ix4i1t3/arm64-v8a/GameActivity/CMakeFiles/game.dir
-C:/Users/axedu/Pictures/App RA/APP/AstroExplorador3.0/.utmp/RelWithDebInfo/3ix4i1t3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-C:/Users/axedu/Pictures/App RA/APP/AstroExplorador3.0/.utmp/RelWithDebInfo/3ix4i1t3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

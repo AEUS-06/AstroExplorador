@@ -1,1 +1,0 @@
-C:\Users\axedu\Pictures\App RA\APP\AstroExplorador3.0\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3ix4i1t3\obj\arm64-v8a
